@@ -1,5 +1,5 @@
 // GAME FUNCTIONS:
-// - Player guesses a number between a min an a max
+// - Player guesses a number between a min and a max
 // - Player gets a defined amount of guesses
 // - App notifies player of guesses remaining
 // - App notifies the player when he guessed correctly
